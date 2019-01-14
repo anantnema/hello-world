@@ -17,3 +17,5 @@ function *upper (items) {
   for (var item of upper(bad_items)) {
     console.log(item);
   }
+
+  
